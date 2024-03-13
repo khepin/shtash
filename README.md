@@ -1,0 +1,2 @@
+# shtash
+Better git stash
